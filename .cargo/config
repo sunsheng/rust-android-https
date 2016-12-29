@@ -1,0 +1,4 @@
+[target.arm-linux-androideabi]
+linker = "arm-linux-androideabi-gcc"
+[target.armv7-linux-androideabi]
+linker = "arm-linux-androideabi-gcc"

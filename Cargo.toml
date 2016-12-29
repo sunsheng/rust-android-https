@@ -1,0 +1,7 @@
+[package]
+name = "http-client"
+version = "0.1.0"
+authors = ["sunsheng <sunsheng4214@gmail.com>"]
+
+[dependencies]
+hyper = "0.9"
