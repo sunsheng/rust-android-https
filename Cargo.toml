@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["sunsheng <sunsheng4214@gmail.com>"]
 
 [dependencies]
-hyper = "0.9"
+hyper = "0.9.14"
+openssl = "0.7.14"
